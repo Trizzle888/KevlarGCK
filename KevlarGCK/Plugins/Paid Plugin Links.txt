@@ -1,0 +1,9 @@
+https://www.spigotmc.org/resources/qualityarmory-vehicles-2.59129/ - QualityArmory Vehicles. QAV is a vehicle plugin with
+a built in shop and garage feature. Costs 4.99 EUR.
+
+https://www.spigotmc.org/resources/weaponmechanicscosmetics-guns-in-minecraft-1-12-2-1-20-1.104539/ - WeaponsMechanicsCosmetics
+WMC is a plugin that adds visual and audio effects along with other features. Costs 10.99 USD
+
+https://mythiccraft.io/index.php?resources/model-engine%E2%80%94ultimate-entity-model-manager-1-16-5-1-20.389/ - ModelEngine
+ModelEngine is a plugin for mythicmobs that adds the ability to create custom models. ModelEngine4 is 31.99.
+ModelEngine Legacy is 18.99

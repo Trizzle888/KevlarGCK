@@ -1,0 +1,19 @@
+https://www.spigotmc.org/resources/tapp-towny-apartments-flats.99390/ - (NOT TESTED) Towny Apartments. Allows you to
+make smaller plots within already existing plots.
+
+https://github.com/TownyAdvanced/SiegeWar - SiegeWar. SiegeWar is a plugin that is (In my opinion) best for geopolitical
+war servers. It adds sieges that can last up to in real life days and has a points system. Learning to set it up is not
+hard.
+
+https://github.com/TownyAdvanced/FlagWar - Flagwar. Flagwar is a plugin that allows for the invasion and claiming of chunks
+in others towns. However, it will not last more than a day therefore offline raiding could happen if rules against arent
+enforced.
+
+https://github.com/TownyAdvanced/Dynmap-Towny - Dynmap Towny. Dynmap Towny is a plugin that shows town locations on the map.
+It is required to have both townyadvanced, and dynmap installed for this to work.
+
+https://github.com/TownyAdvanced/TownyResources - TownyResources. TownyResources is a plugin that allows a random
+production of items each day for towns.
+
+https://github.com/TownyAdvanced/TownyCultures - TownyCultures. TownyCultures is a plugin that adds town cultures, more
+useful for worldbuilding and RP than anything else.

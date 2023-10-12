@@ -1,0 +1,12 @@
+java -Xmx1G -jar SERVER_FILE_NAME.jar
+PAUSE
+
+
+Replace Xmx1G number with how much ram in gigabytes your server should run.
+
+Example: Xmx2G 
+(This will give your server 2 gigabytes of ram)
+
+Download a jar file - https://www.minecraft.net/en-us/download/server
+
+Then replace "SERVER_FILE_NAME" with the name of the jar

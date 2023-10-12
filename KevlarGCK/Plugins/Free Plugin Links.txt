@@ -1,0 +1,50 @@
+https://www.spigotmc.org/resources/weaponmechanics-guns-in-minecraft-1-12-2-1-20-1.99913/ - WeaponsMechanics. This plugin
+adds in easily customizable firearms and other modern war items. Should include MechanicsCore in the files. (API)
+
+https://www.spigotmc.org/resources/deluxemenus.11734/ - Deluxememus. This plugin is sort of hard to figure out, however
+youtube should have all the answers.
+
+https://www.spigotmc.org/resources/tab-1-5-1-20-2.57806/ - TAB. This plugin allows easy customization to your TAB list
+
+https://www.spigotmc.org/resources/viaversion.19254/ - ViaVersion. This plugin allows newer minecraft clients to join an
+older server version. No setup needed, just put the jar in your plugins folder.
+
+https://www.spigotmc.org/resources/viabackwards.27448/ - ViaBackwards. This plugin allows older Minecraft clients to join
+a newer server. No setup needed, just put the jar in your plugins folder
+
+https://www.spigotmc.org/resources/towny-advanced.72694/ - Towny Advanced. this is the claim plugin used for servers with
+many optional additions, including war plugins, cultures, production and more.
+
+https://www.spigotmc.org/resources/dynmap%C2%AE.274/ - Dynmap. This is a plugin that generates a website for your server.
+The website will include a online map of your generated world and player locations. Great for geopolitical servers.
+
+https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-1-20-2.62325/ - GSit is a
+plugin that makes it so you can sit on stairs, slabs, crawl and lay down. Better for RP than anything else.
+
+https://github.com/iconomy5legacy/iConomy - Iconomy. IConomy is a plugin that adds an economy and personal player balance.
+
+https://www.spigotmc.org/resources/vault.34315/ - Vault. Vault is a plugin that adds the API for economies such as IConomy.
+
+https://luckperms.net/ - Luckperms. Luckperms is a very useful and easy to use permissions plugin for a server. Run with
+/lp editor.
+
+https://www.spigotmc.org/resources/silkspawners-versions-1-8-8-1-20-1.60063/ - Silkspawners. Silkspawners is a plugin that
+allows players to pick up spawners with silk touch pickaxes. Will need configuring.
+
+https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/ - MythicMobs
+MythicMobs is a plugin that adds the ability to create complex custom mobs. For models to work, please visit PaidPluginsLinks.txt
+or download the ModelEngine demo.
+
+https://www.spigotmc.org/resources/quickshop-reremake-1-20-2-ready-multi-currency.62575/ - Quickshop-ReRemake. Quickshop
+is a plugin that allows players to buy/sell items from a chest with no commands.
+
+https://www.spigotmc.org/resources/protocollib.1997/ - Protocollib. Protocollib is a plugin API needed for WeaponsMechanics.
+
+https://www.spigotmc.org/resources/no-chat-reports-1-19-1-20-x.102931/ - NoChatReports. Dont want your players banned? Use
+this, or a similar plugin. Disables chat reports.
+
+https://www.spigotmc.org/resources/coreprotect.8631/ - CoreProtect. Coreprotect is the #1 anti griefing plugin since
+2012. It is a fast, effecient data logging tool built to restore griefs.
+
+
+ 
