@@ -46,5 +46,17 @@ this, or a similar plugin. Disables chat reports.
 https://www.spigotmc.org/resources/coreprotect.8631/ - CoreProtect. Coreprotect is the #1 anti griefing plugin since
 2012. It is a fast, effecient data logging tool built to restore griefs.
 
+https://www.spigotmc.org/resources/1-9-1-20-custom-recipes-and-crafting-craftenhance.65058/ - Craftenhance. Craftenhance
+is a plugin that allows for custom crafting recipes and disabling of crafting recipes.
+
+https://www.spigotmc.org/resources/economyshopgui.69927/ - EconomyShopGUI. ESG is a shop plugin that is highly configurable
+Works with most economy plugins.
+
+https://www.spigotmc.org/resources/movecraft.31321/ - Movecraft. Movecraft is a plugin that allows players to build their
+own boats, planes, etc. May cause lag.
+
+https://www.spigotmc.org/resources/parties-an-advanced-parties-manager.3709/ - Parties. Parties is as the name entitles...
+A party plugin.
+
 
  
